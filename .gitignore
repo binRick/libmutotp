@@ -288,3 +288,4 @@ gmp-6.2.0/tune/Makefile
 gmp-6.2.0/tune/sqr_basecase.c
 libsodium.so.23
 libsodium.so.23.3.0
+test
